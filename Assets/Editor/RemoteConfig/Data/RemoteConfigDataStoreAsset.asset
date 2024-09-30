@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"25995611-d5c0-41ba-8b78-628353974888\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"move_speed\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 5.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"d1d372c9-09ab-4ad0-ab18-b1e87b6fd68e\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"rotate_speed\",\r\n      \"type\": \"int\",\r\n      \"value\": 200\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6a24b934-a6ea-450f-96fe-a9b60ae565c5\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"scale\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 1.0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"25995611-d5c0-41ba-8b78-628353974888\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"move_speed\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 5.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"d1d372c9-09ab-4ad0-ab18-b1e87b6fd68e\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"rotate_speed\",\r\n      \"type\": \"int\",\r\n      \"value\": 200\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6a24b934-a6ea-450f-96fe-a9b60ae565c5\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"scale\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 1.0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"63a44c6d-405c-4167-9c89-dad14826b200\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"9ea16628-8ae9-4319-bb67-44d6a68302e4\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-09-30T01:04:03Z\",\r\n    \"updatedAt\":
+    \"2024-09-30T01:04:03Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"63a44c6d-405c-4167-9c89-dad14826b200\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"cf47dc3d-4251-4741-bef5-641ec82ca404\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2024-09-30T01:16:39Z\",\r\n   
+    \"updatedAt\": \"2024-09-30T01:16:39Z\"\r\n  }\r\n]"

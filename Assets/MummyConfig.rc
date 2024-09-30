@@ -1,0 +1,14 @@
+{
+  "$schema": "https://ugs-config-schemas.unity3d.com/v1/remote-config.schema.json",
+  "entries": {
+    "move_speed": 5,
+    "rotate_speed": 200,
+    "scale": 1
+  },
+
+  "types" : {
+    "move_speed": "FLOAT",
+    "rotate_speed": "INT",
+    "scale": "FLOAT"
+  }
+}
